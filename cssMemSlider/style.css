@@ -218,7 +218,7 @@ img {
 
 .text_slider{
   flex-direction: column-reverse;
-  row-gap: 2rem;
+  row-gap: 1rem;
 }
 .slider_dots{
   align-self: center;
